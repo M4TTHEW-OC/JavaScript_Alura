@@ -24,7 +24,6 @@ const alura = "Alura";
 
 console.log(alura * primeiroNum1)
 
-//--------------------------------------------------------------------------------------------------------------
 // Strings 
 
 const  texto1 = "Olá, Mundo!";
