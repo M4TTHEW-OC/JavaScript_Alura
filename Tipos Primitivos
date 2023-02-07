@@ -1,0 +1,64 @@
+// Tipo Number 
+const meuNumero = 3;
+
+    const primeiroNum1 = 1;
+    
+    const segundoNum2 = 2;
+    
+    const  operacaoMatematica = primeiroNum1 * segundoNum2;
+    
+    console.log(operacaoMatematica)
+
+// Ponto flutuante 
+const numeroPontoFlutuante = 3.3;
+
+const PontoFlutuanteSemZero = .5;
+
+novaOperacao = primeiroNum1 / numeroPontoFlutuante;
+
+console.log(novaOperacao)
+
+// Nan -> Not a Nunber (não e um numero)
+
+const alura = "Alura";
+
+console.log(alura * primeiroNum1)
+
+//--------------------------------------------------------------------------------------------------------------
+// Strings 
+
+const  texto1 = "Olá, Mundo!";
+const  texto2 = 'olá, mundo!';
+const  senha =  "senhaSuperSegura123!"
+const  citacao = 'Ola o Leo disse "Oi!"';
+const hellowWord = "Hellow Word!!!"
+console.log(hellowWord, citacao, senha, texto1, texto2)
+
+// Concatenação (+)
+
+const meuNome = "Meu nome é ";
+const Nome = "Matheus";
+console.log(meuNome + Nome)
+
+// Templete String ou Templete Literal 
+
+// boolean
+const primeiroNum = 5;
+const sengundoNum = 5;
+let cadastroAtivado = true;
+
+console.log(primeiroNum === sengundoNum);
+
+
+const texto10 = "Alura"
+const texto11 = "A"
+
+console.log(texto10 === texto11)
+
+ 
+const texto12 = "Alura"
+const texto13 = "alura"
+
+const textoMinusculo = texto12.toLowerCase();
+
+console.log(texto13 === textoMinusculo)
