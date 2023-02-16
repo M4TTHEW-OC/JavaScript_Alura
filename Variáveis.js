@@ -1,4 +1,4 @@
-/*  Var 
+  Var 
 
 var altura = 5;
 var comprimento = 7;
@@ -66,7 +66,7 @@ console.log( typeof texto)
 
 console.log( typeof minhaVar)
 console.log( typeof varNull)
-*/
+
 
 // Conversões 
 
